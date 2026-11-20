@@ -1,6 +1,8 @@
 <img src="assets/header.svg" width="100%" alt="Jasim Siddiqui — useful software, thoughtful interfaces. Built in Toronto." />
 
-I build apps that make everyday friction disappear: planning a transit run, finding a moment in a lecture, or getting a file under an upload limit. I care about the interface **and** the engineering that makes it work.
+I build apps that make everyday friction disappear, with a **strong sense of user experience and visual aesthetics**. I care about how a product looks, how naturally it works, and the engineering behind it.
+
+I've **won hackathons** and know how to **solve problems under pressure**: break down an unfamiliar challenge, prioritize what matters, and turn an idea into a working product on a tight deadline.
 
 [Email me](mailto:jasims.0002@gmail.com) · [Explore my repositories](https://github.com/JasimSiddiqui?tab=repositories) · He/Him
 
@@ -9,31 +11,55 @@ I build apps that make everyday friction disappear: planning a transit run, find
 ### 01 / Stopover
 **Every errand. One trip.**
 
-<a href="https://stopover-site.vercel.app/"><img src="assets/stopover.jpg" width="100%" alt="Stopover's transit-map landing page with three mobile app previews" /></a>
-
-Transit apps usually plan one leg at a time. Stopover brings a whole errand run together, accounting for time at each stop, departure times, and transfer windows.
-
-**Behind the interface:** timetable-based routing with OpenTripPlanner, stop-order optimization, and fare continuity across a multi-stop trip. A mostly monochrome UI keeps the transit line colours meaningful.
-
-[Explore Stopover ↗](https://stopover-site.vercel.app/) · Mobile app in development
-
-<details>
-<summary><b>Watch a trip come together · 22-second demo</b></summary>
-<br />
-<p align="center"><img src="assets/stopover-demo.gif" width="280" alt="Recorded Stopover demo: search for a place, add a stop, and build a transit trip" /></p>
-<p align="center">Actual app recording from the Stopover site.</p>
-</details>
+<table>
+<tr>
+<td width="38%" align="center" valign="top">
+<a href="https://stopover-site.vercel.app/"><img src="assets/stopover-demo.gif" width="280" alt="Stopover app demo: searching for a place, adding a stop, and building a transit trip" /></a>
+</td>
+<td width="62%" valign="top">
+<h3>A whole errand run, planned together.</h3>
+<p>Transit apps usually plan one leg at a time. Stopover accounts for time at each stop, departure times, and transfer windows across the whole trip.</p>
+<p><b>Behind the interface</b></p>
+<p>Timetable-based routing with OpenTripPlanner, stop-order optimization, and fare continuity across a multi-stop trip.</p>
+<p><b>Designed for clarity</b></p>
+<p>A mostly monochrome UI keeps transit line colours meaningful, with the next step and the route ahead easy to find.</p>
+<p><a href="https://stopover-site.vercel.app/">Explore Stopover ↗</a><br />Mobile app in development</p>
+<p><sub>22-second app recording from the Stopover site.</sub></p>
+</td>
+</tr>
+</table>
 
 ### 02 / Riyazat
 **Practice, daily.**
 
-<a href="https://riyazat-omega.vercel.app/"><img src="assets/riyazat.jpg" width="100%" alt="Riyazat's indigo and gold study companion interface, with the headline Practice, daily" /></a>
+<a href="https://riyazat-omega.vercel.app/"><img src="assets/riyazat-home.png" width="100%" alt="Inside Riyazat: a daily study dashboard with a gold arch, quest ring, due flashcards, and geometric course tiles" /></a>
 
 A study companion for TMU Computer Science that brings the degree roadmap, daily practice, and GPA planning into one place.
 
-**Behind the interface:** prerequisite and elective rules, FSRS spaced repetition, browser-based Python practice, and GPA calculations that account for repeated courses. Designed around a daily study routine, with a distinct indigo-and-gold visual identity.
+**Behind the interface:** prerequisite and elective rules, FSRS spaced repetition, browser-based Python practice, and GPA calculations that account for repeated courses. Designed around a daily study routine, with an indigo-and-gold identity drawn from Pakistani and Islamic geometric traditions: ogee arches, manuscript rules, and generative course medallions.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/riyazat-lesson.gif" width="100%" alt="Riyazat lesson demo: answering a check question, receiving feedback, and unlocking the next step" />
+<p><b>Practice with feedback.</b> Inline questions make learners commit to an answer before moving on.</p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/riyazat-planner.gif" width="100%" alt="Riyazat planner demo: dragging a time range to create a study block with the time prefilled" />
+<p><b>Plan with a gesture.</b> Drag across the calendar to create a study block in the selected time slot.</p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Explore the degree roadmap</b></summary>
+<br />
+<img src="assets/riyazat-roadmap.png" width="100%" alt="Riyazat degree roadmap with year waypoints, semester panels, completed courses, and elective progress" />
+</details>
 
 [Explore Riyazat ↗](https://riyazat-omega.vercel.app/) · TMU sign-in required for the app
+
+<sub>App screenshots and interaction recordings from my Riyazat portfolio; view them here without a TMU account.</sub>
 
 ## Small tools, real problems
 
@@ -84,9 +110,11 @@ Open-source desktop apps with focused interfaces and local processing.
 
 ## What connects the work
 
-**Clear interfaces.** Make the next action obvious, whether that is adding a stop or choosing a file-size limit.
+**UX and visual craft.** Pair a distinct visual identity with clear hierarchy, useful feedback, and an obvious next action.
 
 **Useful engineering.** Handle the less visible parts: timing constraints, queue state, cancellation, fallback, and recovery.
+
+**Problem-solving in a crunch.** Bring the same focus that has helped me win hackathons: identify the core problem, make deliberate tradeoffs, and get the important flow working under a deadline.
 
 **Local where it matters.** Keep recordings and media processing on the user's machine in the desktop tools.
 
