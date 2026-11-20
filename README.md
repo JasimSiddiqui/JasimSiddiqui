@@ -11,23 +11,34 @@ I've **won hackathons** and know how to **solve problems under pressure**: break
 ### 01 / Stopover
 **Every errand. One trip.**
 
+<p align="center">
+<a href="https://stopover-site.vercel.app/"><img src="assets/stopover-site-tour.gif" width="100%" alt="Stopover website tour: animated transit-map hero, scrolling phone showcase, fare timeline, and privacy sections" /></a>
+</p>
+
+**The website in motion.** A transit-map visual identity carried through animated routes, scroll-driven phone scenes, and a fare timeline. Built with TypeScript, Canvas 2D, GSAP, and Lenis, with reduced-motion support.
+
+**The app behind it.** Stopover plans a whole errand run around time at each stop, real departure schedules, and transfer windows. OpenTripPlanner routing, stop-order optimization, and fare continuity do the work behind a mostly monochrome interface.
+
 <table>
 <tr>
-<td width="38%" align="center" valign="top">
-<a href="https://stopover-site.vercel.app/"><img src="assets/stopover-demo.gif" width="280" alt="Stopover app demo: searching for a place, adding a stop, and building a transit trip" /></a>
+<td width="33%" align="center" valign="top">
+<img src="assets/stopover-trip-map.png" width="230" alt="Stopover app: a multi-stop Toronto trip on a map with official transit line colours" />
+<p><b>The whole trip</b><br /><sub>Every stop on one quiet map.</sub></p>
 </td>
-<td width="62%" valign="top">
-<h3>A whole errand run, planned together.</h3>
-<p>Transit apps usually plan one leg at a time. Stopover accounts for time at each stop, departure times, and transfer windows across the whole trip.</p>
-<p><b>Behind the interface</b></p>
-<p>Timetable-based routing with OpenTripPlanner, stop-order optimization, and fare continuity across a multi-stop trip.</p>
-<p><b>Designed for clarity</b></p>
-<p>A mostly monochrome UI keeps transit line colours meaningful, with the next step and the route ahead easy to find.</p>
-<p><a href="https://stopover-site.vercel.app/">Explore Stopover ↗</a><br />Mobile app in development</p>
-<p><sub>22-second app recording from the Stopover site.</sub></p>
+<td width="33%" align="center" valign="top">
+<img src="assets/stopover-trip-legs.png" width="230" alt="Stopover app: route cards showing travel times, fares, and a free-transfer badge" />
+<p><b>Fares that carry forward</b><br /><sub>See which legs share a transfer.</sub></p>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="assets/stopover-trip-dark.png" width="230" alt="Stopover app in dark mode with bright transit routes on a dark map" />
+<p><b>Clarity in dark mode</b><br /><sub>The route stays the focus.</sub></p>
 </td>
 </tr>
 </table>
+
+[Explore Stopover ↗](https://stopover-site.vercel.app/) · Mobile app in development
+
+<sub>Website tour from the Stopover site repository; app screenshots from the Stopover app repository.</sub>
 
 ### 02 / Riyazat
 **Practice, daily.**
