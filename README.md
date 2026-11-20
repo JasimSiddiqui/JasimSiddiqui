@@ -12,7 +12,7 @@ I've **won hackathons** and know how to **solve problems under pressure**: break
 **Every errand. One trip.**
 
 <p align="center">
-<a href="https://stopover-site.vercel.app/"><img src="assets/stopover-site-tour.gif" width="100%" alt="Stopover website tour: animated transit-map hero, scrolling phone showcase, fare timeline, and privacy sections" /></a>
+<a href="https://stopover-site.vercel.app/"><img src="assets/stopover-site-tour.webp" width="100%" alt="Stopover website tour: animated transit-map hero, scrolling phone showcase, fare timeline, and privacy sections" /></a>
 </p>
 
 **The website in motion.** A transit-map visual identity carried through animated routes, scroll-driven phone scenes, and a fare timeline. Built with TypeScript, Canvas 2D, GSAP, and Lenis, with reduced-motion support.
@@ -38,7 +38,7 @@ I've **won hackathons** and know how to **solve problems under pressure**: break
 
 [Explore Stopover ↗](https://stopover-site.vercel.app/) · Mobile app in development
 
-<sub>Website tour from the Stopover site repository; app screenshots from the Stopover app repository.</sub>
+<sub>Website tour captured from the live Stopover site; app screenshots from the Stopover app repository.</sub>
 
 ### 02 / Riyazat
 **Practice, daily.**
