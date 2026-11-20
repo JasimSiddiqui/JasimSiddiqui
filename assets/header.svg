@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Jasim Siddiqui</title><desc id="desc">Useful software. Thoughtful interfaces. Built in Toronto.</desc>
+<rect width="1200" height="300" rx="16" fill="#111119"/>
+<g fill="none" stroke="#2c2b3b"><path d="M810 0v300M890 0v300M970 0v300M1050 0v300M1130 0v300M770 60h430M770 140h430M770 220h430"/></g>
+<path d="M835 300V187Q835 140 882 140h121q47 0 47-47V0" fill="none" stroke="#ab96ef" stroke-width="3"/>
+<path d="M1200 220H968q-38 0-38-38V60" fill="none" stroke="#ecc36b" stroke-width="3"/>
+<g stroke-width="3" fill="#111119"><circle cx="835" cy="220" r="10" stroke="#ab96ef"/><circle cx="970" cy="140" r="10" stroke="#ab96ef"/><circle cx="930" cy="60" r="10" stroke="#ecc36b"/><circle cx="1130" cy="220" r="10" stroke="#ecc36b"/></g>
+<text x="48" y="54" fill="#c2b8da" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">JASIM SIDDIQUI / TORONTO</text>
+<g fill="#f7f5fb" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700"><text x="44" y="132">Useful software.</text><text x="44" y="196">Thoughtful interfaces.</text></g>
+<text x="48" y="256" fill="#aaa7ba" font-family="Segoe UI,Arial,sans-serif" font-size="17">WEB APPS <tspan fill="#ecc36b"> / </tspan> DESKTOP TOOLS <tspan fill="#ecc36b"> / </tspan> EVERYDAY PROBLEMS</text>
+</svg>
