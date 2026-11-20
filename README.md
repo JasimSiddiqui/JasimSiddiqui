@@ -43,7 +43,7 @@ I've **won hackathons** and know how to **solve problems under pressure**: break
 ### 02 / Riyazat
 **Practice, daily.**
 
-<a href="https://riyazat-omega.vercel.app/"><img src="assets/riyazat-home.png" width="100%" alt="Inside Riyazat: a daily study dashboard with a gold arch, quest ring, due flashcards, and geometric course tiles" /></a>
+<a href="https://riyazat-omega.vercel.app/"><img src="assets/riyazat-landing-light.png" width="100%" alt="Riyazat public landing page in light mode: white navigation, gold Urdu wordmark, and Practice, daily headline above the sign-in options" /></a>
 
 A study companion for TMU Computer Science that brings the degree roadmap, daily practice, and GPA planning into one place.
 
