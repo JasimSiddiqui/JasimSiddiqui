@@ -8,7 +8,7 @@ I've **won hackathons** and know how to **solve problems under pressure**: break
 
 ## Selected work
 
-### 01 / Stopover
+### 01 / [Stopover](https://stopover-site.vercel.app/)
 **Every errand. One trip.**
 
 <p align="center">
@@ -40,7 +40,7 @@ I've **won hackathons** and know how to **solve problems under pressure**: break
 
 <sub>Website tour captured from the live Stopover site; app screenshots from the Stopover app repository.</sub>
 
-### 02 / Riyazat
+### 02 / [Riyazat](https://riyazat-omega.vercel.app/)
 **Practice, daily.**
 
 <a href="https://riyazat-omega.vercel.app/"><img src="assets/riyazat-landing-light.png" width="100%" alt="Riyazat public landing page in light mode: white navigation, gold Urdu wordmark, and Practice, daily headline above the sign-in options" /></a>
